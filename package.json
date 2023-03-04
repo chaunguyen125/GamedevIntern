@@ -1,0 +1,24 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx webpack serve --mode development  "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "pixi.js": "7.2.0-beta.3",
+    "ts-loader": "^9.4.2"
+  }
+}

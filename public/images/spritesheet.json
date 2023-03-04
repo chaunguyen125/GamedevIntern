@@ -1,0 +1,155 @@
+{
+	"frames": {
+		"baekhyun.jpeg": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 50,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 75
+			}
+		},
+		"chen.jpg": {
+			"frame": {
+				"x": 53,
+				"y": 1,
+				"w": 50,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 75
+			}
+		},
+		"do.jpg": {
+			"frame": {
+				"x": 105,
+				"y": 1,
+				"w": 50,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 75
+			}
+		},
+		"kai.jpg": {
+			"frame": {
+				"x": 1,
+				"y": 78,
+				"w": 50,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 75
+			}
+		},
+		"sehun.jpg": {
+			"frame": {
+				"x": 53,
+				"y": 78,
+				"w": 50,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 75
+			}
+		},
+		"suho.jpg": {
+			"frame": {
+				"x": 105,
+				"y": 78,
+				"w": 50,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 75
+			}
+		},
+		"xiumin.jpeg": {
+			"frame": {
+				"x": 157,
+				"y": 1,
+				"w": 50,
+				"h": 75
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 50,
+				"h": 75
+			},
+			"sourceSize": {
+				"w": 50,
+				"h": 75
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 208,
+			"h": 154
+		},
+		"scale": "1"
+	}
+}
